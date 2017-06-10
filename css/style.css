@@ -57,7 +57,9 @@ h5 {
 h6 {
 	font-weight: 700;
 }
-h1 span,
+h1 span {
+         font-size: 70px;
+         color: #339BEB;},
 h2 span,
 h3 span,
 h4 span {
